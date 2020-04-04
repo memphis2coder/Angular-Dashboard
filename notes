@@ -1,0 +1,4 @@
+install angular
+install angular material packages: ng add @angular/material
+install highcharts packages: npm i highcharts-angular --save, npm i highcharts --save
+install Flex Layout packages: npm i -s @angular/flex-layout @angular/cdk
